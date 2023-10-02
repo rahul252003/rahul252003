@@ -1,4 +1,4 @@
-
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=rahul252003&countColor=%23263759" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=30&duration=4000&pause=200&center=true&vCenter=true&width=435&lines=Hi++There!%F0%9F%91%8B;I'm+Rahul." />
 </h1>
